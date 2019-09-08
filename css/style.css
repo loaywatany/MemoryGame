@@ -1,3 +1,22 @@
 body {
     background-image: url(../img/background.png)
 }
+
+.container1 {
+    position: relative;
+}
+
+.header {
+    position: absolute;
+    left: 35%;
+    color: rgba(255, 0, 0, 0.541);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#start {
+    width: 40%;
+    position: absolute;
+    left: 30%;
+    top: 40%;
+}
