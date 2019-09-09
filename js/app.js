@@ -1,0 +1,1 @@
+let objs = ['neuer','neuer', 'muller', 'muller', 'lewandoweski', 'lewandoweski', 'kimmich', 'kimmich', 'ganbry', 'ganbry', 'alaba', 'alaba']
