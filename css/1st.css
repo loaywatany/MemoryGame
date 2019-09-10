@@ -1,0 +1,27 @@
+body {
+    background-image: url(../img/background.png);
+}
+
+.container1 {
+    position: relative;
+}
+
+.header {
+    position: absolute;
+    left: 38%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+}
+
+.button {
+    position: relative;
+}
+
+#start {
+    position: absolute;
+    top: 180px;
+    left: 35%;
+    width: 30%;
+}
